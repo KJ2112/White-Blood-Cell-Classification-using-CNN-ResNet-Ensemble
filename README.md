@@ -42,15 +42,9 @@ The model classifies a given WBC into one of four classes:
 ## 📂 Repository Structure  
 
 ```text
-├── data/
-│
-├── notebooks/
-│ └── Blood_cell_detection.ipynb # Main training & evaluation notebook
-│
-├── reports/
-│ └── PROJECT_REPORT.pdf # Detailed project report
-│
-├── README.md
+ └── Blood_cell_detection.ipynb # Main training & evaluation notebook
+ └── PROJECT_REPORT.pdf # Detailed project report
+ └──README.md
 
 
 ## 🚀 How to Run  

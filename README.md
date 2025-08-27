@@ -42,7 +42,7 @@ The model classifies a given WBC into one of four classes:
 ## 📂 Repository Structure  
 
 ```text
-├── data/ # (Optional) Link or sample dataset
+├── data/
 │
 ├── notebooks/
 │ └── Blood_cell_detection.ipynb # Main training & evaluation notebook
@@ -51,7 +51,6 @@ The model classifies a given WBC into one of four classes:
 │ └── PROJECT_REPORT.pdf # Detailed project report
 │
 ├── README.md
-└── requirements.txt # Python dependencies
 
 
 ## 🚀 How to Run  

@@ -1,5 +1,5 @@
 # 🧬 White Blood Cell Classification using CNN & ResNet Ensemble  
-
+Deep learning project for medical image analysis. Trained a custom CNN and ResNet-based ensemble to classify White Blood Cells (WBCs) into Neutrophils, Lymphocytes, Eosinophils, and Monocytes. Achieved 98.7% accuracy.
 ## 📌 Project Overview  
 Accurate **White Blood Cell (WBC) classification** is crucial for hematological diagnosis, but manual analysis under a microscope is **time-consuming and error-prone**.  
 This project leverages **deep learning** to automate WBC subtype classification. We trained an **ensemble of a custom CNN and ResNet-based model** on annotated blood smear images, achieving **98.7% accuracy**.  
